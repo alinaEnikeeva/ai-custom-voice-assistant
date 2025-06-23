@@ -1,4 +1,4 @@
-# AI Assistant PoC
+# AI Custom Voice Assistant
 
 This proof-of-concept simulates a production-grade AI assistant pipeline:
 
@@ -12,7 +12,7 @@ This proof-of-concept simulates a production-grade AI assistant pipeline:
 ## Directory Structure
 
 ```text
-ai_assistant_poc/
+ai-custom-voice-assistant/
 ├── main.py          # Entry point running AI-driven dialogue
 ├── ringcx.py        # Stub for RingCX call ingestion
 ├── llm.py           # Wrapper for OpenAI ChatCompletion API
